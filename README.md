@@ -11,3 +11,9 @@ Tech Stack:-
 Library:- 
 
 1)Jquery
+
+Instruction for opening the link:
+
+1) Either download zip and extract or Download through git command.
+
+2) Open the index.html file in browser.
