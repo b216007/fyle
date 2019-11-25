@@ -15,6 +15,7 @@ function onload() {
 	if (!myFavourite) {
 		myFavourite={}
 	}
+	searchItem($('#bank-list-select').val())
 }
 
 function searchItem(value) {
