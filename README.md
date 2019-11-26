@@ -1,6 +1,6 @@
 # fyle
 
-I was unaware of the given API url, i tried almost all the combination for fetching detail through the given api like bank name,branch,state but i got 404 error, I think only bank?city=something is working, so that i did this project considering this thing only.
+url:- https://ananyafyle.herokuapp.com/
 
 Tech Stack:-
 
