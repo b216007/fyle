@@ -33,7 +33,7 @@ function searchItem(value) {
 			plotData(data)
 		}
 	})
-
+	initial=0;
 }
 
 
